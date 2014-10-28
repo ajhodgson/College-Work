@@ -1,8 +1,8 @@
 #
 #    Alan Hodgson
-#    alanhodgson@my.unt.edu
+     alanhodgson@my.unt.edu
 #    
-#    about.me/alanhodgson
+     about.me/alanhodgson
 #
  
 ==========================
