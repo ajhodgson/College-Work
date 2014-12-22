@@ -1,12 +1,8 @@
-#
+#=====================================
 #    Alan Hodgson
-     alanhodgson@my.unt.edu
-#    
-     about.me/alanhodgson
-#
+#    Email: alanhodgson@my.unt.edu
+#    Website: alanhodgson.me
+#=====================================
  
-==========================
-	HelloWorld
-==========================
-
-These are a few basic projects I have made.
+#	CurrentProjects
+Description: Contains the projects that I am currently working on. 
