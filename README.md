@@ -5,4 +5,4 @@
 #==================================
  
 #	CurrentProjects
-Description: Contains the projects that I am currently working on with Java and C programming. 
+Contains the projects that I am currently working on with Java and C programming. 
