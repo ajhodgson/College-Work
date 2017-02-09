@@ -1,8 +1,10 @@
 #==================================
 #    Alan Hodgson
-#    Email: alanhodgson@my.unt.edu
-#    Website: alanhodgson.me
+#    Email: ajhodgson423@gmail.com
 #==================================
  
 #	CurrentProjects
-Contains the projects that I am currently working on with Java and C programming. 
+Contains old projects using Java and C#
+
+# Python
+Python projects
