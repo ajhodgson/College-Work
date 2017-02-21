@@ -3,8 +3,8 @@
 #    Email: ajhodgson423@gmail.com
 #==================================
  
-#	CurrentProjects
-Contains old projects using Java and C#
+#	College-Work
+Projects and assignments from college using Java and C
 
 # Python
-Python projects
+Python projects in progress
